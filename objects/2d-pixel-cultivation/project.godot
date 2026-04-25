@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="新建游戏项目"
-config/features=PackedStringArray("4.6", "Mobile")
+config/name="2d-pixel-cultivation"
+config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
 [physics]
@@ -21,4 +21,3 @@ config/icon="res://icon.svg"
 [rendering]
 
 rendering_device/driver.windows="d3d12"
-renderer/rendering_method="mobile"
